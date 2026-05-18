@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+python-dotenv
+requests
+pillow
+torch
+transformers
+kagglehub
+accelerate
+google-genai

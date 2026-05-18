@@ -1,0 +1,251 @@
+building_id,lat,lng,building_size_category,property_tag,neighborhood_type,monthly_usage_kwh,load_type,blackout_frequency,average_blackout_duration_hrs,is_theft_simulated,risk_score,anomaly_reason,expected_monthly_usage_kwh
+B0000,6.4540337,3.3480627,Medium,Residential,Dense Urban,168.66,Morning/Evening Peak,5,5,False,9.5,Usage is within normal expected range compared to peers.,143.95828
+B0001,6.454411,3.3493993,Medium,Residential,Dense Urban,161.67,Morning/Evening Peak,5,6,False,6.2,Usage is within normal expected range compared to peers.,143.95828
+B0002,6.4949828,3.3892346,Medium,Residential,Dense Urban,131.44,Morning/Evening Peak,10,5,False,6.7,Usage is within normal expected range compared to peers.,143.95828
+B0003,6.4508263,3.3964265,Medium,Residential,Dense Urban,169.95,Morning/Evening Peak,15,5,False,5.1,Usage is within normal expected range compared to peers.,143.95828
+B0004,6.4494804,3.3970214,Medium,Residential,Dense Urban,175.39,Morning/Evening Peak,9,2,False,12.1,Usage is within normal expected range compared to peers.,143.95828
+B0005,6.439179,3.4066572,Medium,Residential,Dense Urban,124.3,Erratic,5,6,False,31.8,Erratic load type is unusual for this property tag.,143.95828
+B0006,6.5663585,3.3243243,Medium,Residential,Dense Urban,178.3,Erratic,5,2,False,33.4,Erratic load type is unusual for this property tag.,143.95828
+B0007,6.4435711,3.3772339,Medium,Residential,Dense Urban,128.87,Erratic,9,5,False,28.8,Erratic load type is unusual for this property tag.,143.95828
+B0008,6.4332627,3.470223,Medium,Residential,Dense Urban,161.85,Constant,5,4,False,9.3,Usage is within normal expected range compared to peers.,143.95828
+B0009,6.49473,3.388078,Medium,Residential,Dense Urban,129.76,Erratic,8,3,False,31.9,Erratic load type is unusual for this property tag.,143.95828
+B0010,6.4702644,3.3697064,Medium,Residential,Dense Urban,154.31,Morning/Evening Peak,12,5,False,9.4,Usage is within normal expected range compared to peers.,143.95828
+B0011,6.4548179,3.4041629,Medium,Residential,Dense Urban,154.48,Morning/Evening Peak,5,2,False,11.4,Usage is within normal expected range compared to peers.,143.95828
+B0012,6.4433489,3.3779091,Medium,Residential,Dense Urban,171.65,Morning/Evening Peak,5,2,False,12.8,Usage is within normal expected range compared to peers.,143.95828
+B0013,6.4256961,3.4079727,Medium,Residential,Dense Urban,160.26,Morning/Evening Peak,6,5,False,12.0,Usage is within normal expected range compared to peers.,143.95828
+B0014,6.5910428,3.3945655,Medium,Residential,Dense Urban,129.66,Constant,10,4,False,6.4,Usage is within normal expected range compared to peers.,143.95828
+B0015,6.4215666,3.4118408,Medium,Residential,Dense Urban,169.43,Constant,7,6,False,6.2,Usage is within normal expected range compared to peers.,143.95828
+B0016,6.44929,3.3976452,Medium,Residential,Dense Urban,160.84,Morning/Evening Peak,11,5,False,14.9,Usage is within normal expected range compared to peers.,143.95828
+B0017,6.4355471,3.4079927,Medium,Residential,Dense Urban,173.95,Constant,6,5,False,13.2,Usage is within normal expected range compared to peers.,143.95828
+B0018,6.4251241,3.3361101,Medium,Residential,Dense Urban,166.14,Morning/Evening Peak,15,3,False,5.1,Usage is within normal expected range compared to peers.,143.95828
+B0019,6.5922359,3.3929972,Medium,Residential,Dense Urban,140.39,Morning/Evening Peak,10,5,False,11.4,Usage is within normal expected range compared to peers.,143.95828
+B0020,6.5905885,3.3937056,Medium,Residential,Dense Urban,159.44,Constant,5,2,False,5.8,Usage is within normal expected range compared to peers.,143.95828
+B0021,6.4914415,3.3871191,Medium,Residential,Dense Urban,154.22,Constant,13,4,False,14.4,Usage is within normal expected range compared to peers.,143.95828
+B0022,6.4315543,3.3394081,Medium,Residential,Dense Urban,162.22,Constant,14,4,False,14.2,Usage is within normal expected range compared to peers.,143.95828
+B0023,6.5340862,3.310823,Medium,Residential,Dense Urban,153.91,Morning/Evening Peak,11,2,False,8.8,Usage is within normal expected range compared to peers.,143.95828
+B0024,6.4910459,3.3863765,Medium,Residential,Dense Urban,165.35,Morning/Evening Peak,8,5,False,10.8,Usage is within normal expected range compared to peers.,143.95828
+B0025,6.4356163,3.4206612,Medium,Residential,Dense Urban,150.89,Morning/Evening Peak,13,2,False,6.3,Usage is within normal expected range compared to peers.,143.95828
+B0026,6.4233763,3.4087585,Medium,Residential,Dense Urban,169.24,Erratic,7,4,False,32.3,Erratic load type is unusual for this property tag.,143.95828
+B0027,6.446528,3.3750583,Medium,Residential,Dense Urban,124.54,Erratic,10,5,False,30.1,Erratic load type is unusual for this property tag.,143.95828
+B0028,6.4441255,3.3762155,Medium,Residential,Dense Urban,144.89,Morning/Evening Peak,12,6,False,10.5,Usage is within normal expected range compared to peers.,143.95828
+B0029,6.4345175,3.4691507,Medium,Residential,Dense Urban,138.66,Constant,11,4,False,9.5,Usage is within normal expected range compared to peers.,143.95828
+B0030,6.4903009,3.3852462,Medium,Residential,Dense Urban,131.94,Morning/Evening Peak,14,6,False,5.6,Usage is within normal expected range compared to peers.,143.95828
+B0031,6.4342397,3.4696995,Medium,Residential,Dense Urban,21.83,Morning/Evening Peak,5,6,True,85.3,Suspiciously low usage. More than 2 std devs below average (144.0 kWh) for Medium Residential buildings.,143.95828
+B0032,6.5906977,3.3937687,Medium,Residential,Dense Urban,149.76,Constant,8,5,False,12.1,Usage is within normal expected range compared to peers.,143.95828
+B0033,6.4342875,3.4187166,Medium,Residential,Dense Urban,142.02,Morning/Evening Peak,13,5,False,6.5,Usage is within normal expected range compared to peers.,143.95828
+B0034,6.4361267,3.4236509,Medium,Residential,Dense Urban,154.64,Morning/Evening Peak,7,3,False,10.5,Usage is within normal expected range compared to peers.,143.95828
+B0035,6.4362099,3.4842568,Medium,Residential,Dense Urban,170.0,Morning/Evening Peak,11,4,False,12.7,Usage is within normal expected range compared to peers.,143.95828
+B0036,6.4654754,3.3017946,Medium,Residential,Dense Urban,20.98,Morning/Evening Peak,10,5,True,92.3,Suspiciously low usage. More than 2 std devs below average (144.0 kWh) for Medium Residential buildings.,143.95828
+B0037,6.4451999,3.3762745,Medium,Residential,Dense Urban,125.73,Morning/Evening Peak,7,5,False,12.8,Usage is within normal expected range compared to peers.,143.95828
+B0038,6.448327,3.3976319,Medium,Residential,Dense Urban,151.18,Morning/Evening Peak,10,3,False,13.2,Usage is within normal expected range compared to peers.,143.95828
+B0039,6.4490351,3.3945574,Medium,Residential,Dense Urban,153.78,Constant,15,5,False,7.7,Usage is within normal expected range compared to peers.,143.95828
+B0040,6.4503844,3.4162481,Medium,Residential,Dense Urban,149.58,Erratic,6,5,False,33.4,Erratic load type is unusual for this property tag.,143.95828
+B0041,6.433351,3.42051,Medium,Residential,Dense Urban,128.21,Erratic,12,2,False,29.4,Erratic load type is unusual for this property tag.,143.95828
+B0042,6.4400321,3.430935,Medium,Residential,Dense Urban,132.88,Erratic,13,3,False,30.0,Erratic load type is unusual for this property tag.,143.95828
+B0043,6.5899875,3.3934032,Medium,Residential,Dense Urban,171.32,Constant,7,3,False,8.6,Usage is within normal expected range compared to peers.,143.95828
+B0044,6.4345276,3.4699348,Medium,Residential,Dense Urban,176.2,Morning/Evening Peak,7,5,False,5.1,Usage is within normal expected range compared to peers.,143.95828
+B0045,6.4436235,3.4227306,Medium,Residential,Dense Urban,165.83,Morning/Evening Peak,7,4,False,11.1,Usage is within normal expected range compared to peers.,143.95828
+B0046,6.468202,3.3812399,Medium,Residential,Dense Urban,148.85,Morning/Evening Peak,7,5,False,11.7,Usage is within normal expected range compared to peers.,143.95828
+B0047,6.5912676,3.393422,Medium,Residential,Dense Urban,129.24,Morning/Evening Peak,7,5,False,7.9,Usage is within normal expected range compared to peers.,143.95828
+B0048,6.5165019,3.3883271,Medium,Residential,Dense Urban,122.28,Morning/Evening Peak,6,5,False,14.8,Usage is within normal expected range compared to peers.,143.95828
+B0049,6.4228025,3.4105269,Medium,Residential,Dense Urban,133.94,Morning/Evening Peak,13,3,False,7.4,Usage is within normal expected range compared to peers.,143.95828
+B0050,6.5912752,3.3927895,Medium,Residential,Dense Urban,178.49,Morning/Evening Peak,12,2,False,9.1,Usage is within normal expected range compared to peers.,143.95828
+B0051,6.4340512,3.4700435,Medium,Residential,Dense Urban,145.66,Constant,10,3,False,10.5,Usage is within normal expected range compared to peers.,143.95828
+B0052,6.449416,3.3970866,Medium,Residential,Dense Urban,122.47,Morning/Evening Peak,14,2,False,8.5,Usage is within normal expected range compared to peers.,143.95828
+B0053,6.4681023,3.3803262,Medium,Residential,Dense Urban,129.56,Morning/Evening Peak,8,6,False,12.3,Usage is within normal expected range compared to peers.,143.95828
+B0054,6.5020078,3.3649893,Medium,Residential,Dense Urban,121.42,Constant,6,3,False,9.7,Usage is within normal expected range compared to peers.,143.95828
+B0055,6.4261109,3.332412,Medium,Residential,Dense Urban,177.15,Morning/Evening Peak,11,4,False,6.6,Usage is within normal expected range compared to peers.,143.95828
+B0056,6.590989,3.3932864,Medium,Residential,Dense Urban,162.81,Morning/Evening Peak,11,3,False,9.7,Usage is within normal expected range compared to peers.,143.95828
+B0057,6.4332359,3.4698756,Medium,Residential,Dense Urban,174.18,Morning/Evening Peak,6,2,False,6.9,Usage is within normal expected range compared to peers.,143.95828
+B0058,6.4904776,3.3851737,Medium,Residential,Dense Urban,144.64,Erratic,5,3,False,33.4,Erratic load type is unusual for this property tag.,143.95828
+B0059,6.4359775,3.4156903,Medium,Residential,Dense Urban,175.43,Morning/Evening Peak,9,4,False,7.2,Usage is within normal expected range compared to peers.,143.95828
+B0060,6.4433895,3.3775258,Medium,Residential,Dense Urban,120.14,Erratic,8,4,False,28.8,Erratic load type is unusual for this property tag.,143.95828
+B0061,6.4252082,3.4501896,Medium,Residential,Dense Urban,146.82,Morning/Evening Peak,7,2,False,13.0,Usage is within normal expected range compared to peers.,143.95828
+B0062,6.5923213,3.3939001,Medium,Residential,Dense Urban,152.63,Constant,15,4,False,14.8,Usage is within normal expected range compared to peers.,143.95828
+B0063,6.4915609,3.3853538,Medium,Residential,Dense Urban,16.96,Morning/Evening Peak,10,5,True,94.3,Suspiciously low usage. More than 2 std devs below average (144.0 kWh) for Medium Residential buildings.,143.95828
+B0064,6.4448191,3.3767919,Medium,Residential,Dense Urban,149.55,Morning/Evening Peak,14,4,False,9.9,Usage is within normal expected range compared to peers.,143.95828
+B0065,6.4463728,3.3747093,Medium,Residential,Dense Urban,171.92,Morning/Evening Peak,9,6,False,8.1,Usage is within normal expected range compared to peers.,143.95828
+B0066,6.4340838,3.3487821,Medium,Residential,Dense Urban,156.01,Morning/Evening Peak,11,2,False,12.6,Usage is within normal expected range compared to peers.,143.95828
+B0067,6.4917255,3.3857313,Medium,Residential,Dense Urban,162.67,Morning/Evening Peak,12,5,False,14.4,Usage is within normal expected range compared to peers.,143.95828
+B0068,6.5923437,3.3943907,Medium,Residential,Dense Urban,161.69,Morning/Evening Peak,10,2,False,6.4,Usage is within normal expected range compared to peers.,143.95828
+B0069,6.4333525,3.4704916,Medium,Residential,Dense Urban,153.16,Morning/Evening Peak,11,4,False,14.6,Usage is within normal expected range compared to peers.,143.95828
+B0070,6.4452903,3.3763107,Medium,Residential,Dense Urban,141.23,Erratic,8,3,False,32.0,Erratic load type is unusual for this property tag.,143.95828
+B0071,6.4231059,3.4266335,Medium,Residential,Dense Urban,140.23,Morning/Evening Peak,9,5,False,14.9,Usage is within normal expected range compared to peers.,143.95828
+B0072,6.5728836,3.336495,Medium,Residential,Dense Urban,130.72,Morning/Evening Peak,15,3,False,12.0,Usage is within normal expected range compared to peers.,143.95828
+B0073,6.4378621,3.4081659,Medium,Residential,Dense Urban,131.63,Constant,9,2,False,10.1,Usage is within normal expected range compared to peers.,143.95828
+B0074,6.5923973,3.3952009,Medium,Residential,Dense Urban,176.02,Constant,6,5,False,7.4,Usage is within normal expected range compared to peers.,143.95828
+B0075,6.4342706,3.4698636,Medium,Residential,Dense Urban,153.66,Morning/Evening Peak,13,2,False,7.5,Usage is within normal expected range compared to peers.,143.95828
+B0076,6.4904914,3.3856175,Medium,Residential,Dense Urban,152.03,Constant,5,5,False,12.4,Usage is within normal expected range compared to peers.,143.95828
+B0077,6.5920467,3.3933446,Medium,Residential,Dense Urban,164.28,Morning/Evening Peak,5,4,False,9.9,Usage is within normal expected range compared to peers.,143.95828
+B0078,6.4691892,3.3666079,Medium,Residential,Dense Urban,163.86,Erratic,6,5,False,34.0,Erratic load type is unusual for this property tag.,143.95828
+B0079,6.4360182,3.408085,Medium,Residential,Dense Urban,176.52,Morning/Evening Peak,15,5,False,7.1,Usage is within normal expected range compared to peers.,143.95828
+B0080,6.4240585,3.4097494,Medium,Residential,Dense Urban,135.85,Morning/Evening Peak,8,6,False,7.3,Usage is within normal expected range compared to peers.,143.95828
+B0081,6.5735465,3.3364823,Medium,Residential,Dense Urban,141.09,Constant,11,3,False,10.3,Usage is within normal expected range compared to peers.,143.95828
+B0082,6.4449517,3.4021279,Medium,Residential,Dense Urban,135.52,Constant,6,4,False,11.4,Usage is within normal expected range compared to peers.,143.95828
+B0083,6.4345395,3.469502,Medium,Residential,Dense Urban,134.69,Erratic,6,6,False,25.7,Erratic load type is unusual for this property tag.,143.95828
+B0084,6.4471793,3.3976697,Medium,Residential,Dense Urban,165.33,Constant,5,4,False,11.5,Usage is within normal expected range compared to peers.,143.95828
+B0085,6.5915379,3.393687,Medium,Residential,Dense Urban,165.17,Erratic,11,3,False,28.3,Erratic load type is unusual for this property tag.,143.95828
+B0086,6.4367592,3.3931312,Medium,Residential,Dense Urban,26.81,Morning/Evening Peak,11,3,True,92.7,Suspiciously low usage. More than 2 std devs below average (144.0 kWh) for Medium Residential buildings.,143.95828
+B0087,6.4233122,3.4100795,Medium,Residential,Dense Urban,154.25,Morning/Evening Peak,5,2,False,13.7,Usage is within normal expected range compared to peers.,143.95828
+B0088,6.4327076,3.4702266,Medium,Residential,Dense Urban,130.36,Morning/Evening Peak,7,3,False,13.1,Usage is within normal expected range compared to peers.,143.95828
+B0089,6.4517751,3.3987228,Medium,Residential,Dense Urban,122.28,Morning/Evening Peak,14,4,False,14.9,Usage is within normal expected range compared to peers.,143.95828
+B0090,6.4904625,3.3818161,Medium,Residential,Dense Urban,164.44,Morning/Evening Peak,6,3,False,14.2,Usage is within normal expected range compared to peers.,143.95828
+B0091,6.4827278,3.3602366,Medium,Residential,Dense Urban,125.62,Constant,14,4,False,14.7,Usage is within normal expected range compared to peers.,143.95828
+B0092,6.4913058,3.3880349,Medium,Residential,Dense Urban,131.16,Morning/Evening Peak,6,2,False,6.7,Usage is within normal expected range compared to peers.,143.95828
+B0093,6.4653425,3.3027762,Medium,Residential,Dense Urban,170.73,Constant,15,2,False,5.2,Usage is within normal expected range compared to peers.,143.95828
+B0094,6.4446053,3.3766539,Medium,Residential,Dense Urban,15.82,Morning/Evening Peak,13,2,True,91.3,Suspiciously low usage. More than 2 std devs below average (144.0 kWh) for Medium Residential buildings.,143.95828
+B0095,6.4966422,3.3811587,Medium,Residential,Dense Urban,150.49,Morning/Evening Peak,7,4,False,8.8,Usage is within normal expected range compared to peers.,143.95828
+B0096,6.4266687,3.33246,Medium,Residential,Dense Urban,149.25,Morning/Evening Peak,6,6,False,9.7,Usage is within normal expected range compared to peers.,143.95828
+B0097,6.4798521,3.3513737,Medium,Residential,Dense Urban,148.05,Morning/Evening Peak,12,5,False,13.3,Usage is within normal expected range compared to peers.,143.95828
+B0098,6.4327175,3.4691944,Medium,Residential,Dense Urban,167.68,Morning/Evening Peak,10,3,False,7.3,Usage is within normal expected range compared to peers.,143.95828
+B0099,6.4249315,3.4088085,Medium,Residential,Dense Urban,179.38,Morning/Evening Peak,5,3,False,13.7,Usage is within normal expected range compared to peers.,143.95828
+B0100,6.4441681,3.3761132,Medium,Residential,Dense Urban,143.68,Morning/Evening Peak,6,5,False,13.6,Usage is within normal expected range compared to peers.,143.95828
+B0101,6.4506534,3.3986318,Medium,Residential,Dense Urban,170.51,Erratic,15,2,False,32.9,Erratic load type is unusual for this property tag.,143.95828
+B0102,6.4817856,3.3559592,Medium,Residential,Dense Urban,146.05,Morning/Evening Peak,15,6,False,12.3,Usage is within normal expected range compared to peers.,143.95828
+B0103,6.4438445,3.3754191,Medium,Residential,Dense Urban,158.15,Morning/Evening Peak,12,3,False,10.4,Usage is within normal expected range compared to peers.,143.95828
+B0104,6.434279,3.4692514,Medium,Residential,Dense Urban,153.19,Morning/Evening Peak,5,4,False,10.7,Usage is within normal expected range compared to peers.,143.95828
+B0105,6.5733464,3.3364838,Medium,Residential,Dense Urban,154.06,Morning/Evening Peak,15,5,False,14.1,Usage is within normal expected range compared to peers.,143.95828
+B0106,6.47039,3.3650651,Medium,Residential,Dense Urban,128.98,Constant,8,2,False,6.1,Usage is within normal expected range compared to peers.,143.95828
+B0107,6.491135,3.3858388,Medium,Residential,Dense Urban,165.63,Morning/Evening Peak,10,3,False,12.8,Usage is within normal expected range compared to peers.,143.95828
+B0108,6.5919742,3.3936873,Medium,Residential,Dense Urban,170.78,Erratic,7,5,False,34.8,Erratic load type is unusual for this property tag.,143.95828
+B0109,6.4497862,3.3990963,Medium,Residential,Dense Urban,148.01,Morning/Evening Peak,14,3,False,10.3,Usage is within normal expected range compared to peers.,143.95828
+B0110,6.4283357,3.4304353,Medium,Residential,Dense Urban,155.98,Morning/Evening Peak,6,5,False,9.8,Usage is within normal expected range compared to peers.,143.95828
+B0111,6.5909947,3.3941365,Medium,Residential,Dense Urban,120.76,Morning/Evening Peak,7,6,False,7.7,Usage is within normal expected range compared to peers.,143.95828
+B0112,6.4702137,3.3710061,Medium,Residential,Dense Urban,167.4,Constant,14,5,False,7.4,Usage is within normal expected range compared to peers.,143.95828
+B0113,6.5914665,3.3938112,Medium,Residential,Dense Urban,121.32,Morning/Evening Peak,8,3,False,9.3,Usage is within normal expected range compared to peers.,143.95828
+B0114,6.4449304,3.37618,Medium,Residential,Dense Urban,131.99,Constant,9,4,False,12.2,Usage is within normal expected range compared to peers.,143.95828
+B0115,6.424549,3.4112821,Medium,Residential,Dense Urban,137.31,Morning/Evening Peak,8,3,False,13.6,Usage is within normal expected range compared to peers.,143.95828
+B0116,6.5906335,3.3927344,Medium,Residential,Dense Urban,165.69,Morning/Evening Peak,8,5,False,14.4,Usage is within normal expected range compared to peers.,143.95828
+B0117,6.4438706,3.3766806,Medium,Residential,Dense Urban,136.97,Morning/Evening Peak,8,3,False,10.5,Usage is within normal expected range compared to peers.,143.95828
+B0118,6.4439225,3.3765867,Medium,Residential,Dense Urban,170.11,Constant,15,6,False,7.5,Usage is within normal expected range compared to peers.,143.95828
+B0119,6.4485028,3.3982805,Medium,Residential,Dense Urban,122.76,Morning/Evening Peak,13,2,False,14.8,Usage is within normal expected range compared to peers.,143.95828
+B0120,6.4438377,3.376925,Medium,Residential,Dense Urban,143.44,Constant,13,2,False,8.8,Usage is within normal expected range compared to peers.,143.95828
+B0121,6.4258218,3.4087311,Medium,Residential,Dense Urban,172.46,Morning/Evening Peak,12,4,False,9.6,Usage is within normal expected range compared to peers.,143.95828
+B0122,6.4769786,3.3664478,Medium,Residential,Dense Urban,138.15,Morning/Evening Peak,9,3,False,11.7,Usage is within normal expected range compared to peers.,143.95828
+B0123,6.490826,3.3851438,Medium,Residential,Dense Urban,126.13,Morning/Evening Peak,15,4,False,6.5,Usage is within normal expected range compared to peers.,143.95828
+B0124,6.4513344,3.3961344,Medium,Residential,Dense Urban,136.02,Morning/Evening Peak,5,6,False,5.3,Usage is within normal expected range compared to peers.,143.95828
+B0125,6.5917436,3.3933347,Medium,Residential,Dense Urban,128.44,Morning/Evening Peak,12,6,False,11.5,Usage is within normal expected range compared to peers.,143.95828
+B0126,6.5922594,3.3935718,Medium,Residential,Dense Urban,138.91,Morning/Evening Peak,8,3,False,13.2,Usage is within normal expected range compared to peers.,143.95828
+B0127,6.4935783,3.3860534,Medium,Residential,Dense Urban,168.38,Morning/Evening Peak,9,5,False,12.8,Usage is within normal expected range compared to peers.,143.95828
+B0128,6.4906245,3.3859107,Medium,Residential,Dense Urban,126.88,Morning/Evening Peak,7,4,False,9.3,Usage is within normal expected range compared to peers.,143.95828
+B0129,6.4512667,3.3980511,Medium,Residential,Dense Urban,122.35,Constant,8,3,False,5.2,Usage is within normal expected range compared to peers.,143.95828
+B0130,6.428171,3.4291203,Medium,Residential,Dense Urban,125.9,Erratic,12,2,False,32.3,Erratic load type is unusual for this property tag.,143.95828
+B0131,6.4368812,3.4228542,Medium,Residential,Dense Urban,133.66,Constant,13,3,False,7.9,Usage is within normal expected range compared to peers.,143.95828
+B0132,6.489783,3.3846665,Medium,Residential,Dense Urban,160.99,Morning/Evening Peak,14,3,False,10.0,Usage is within normal expected range compared to peers.,143.95828
+B0133,6.4909519,3.3861714,Medium,Residential,Dense Urban,170.84,Morning/Evening Peak,8,2,False,5.9,Usage is within normal expected range compared to peers.,143.95828
+B0134,6.4494477,3.4006381,Medium,Residential,Dense Urban,129.27,Constant,9,3,False,5.8,Usage is within normal expected range compared to peers.,143.95828
+B0135,6.4791635,3.361556,Medium,Residential,Dense Urban,120.52,Morning/Evening Peak,9,4,False,11.0,Usage is within normal expected range compared to peers.,143.95828
+B0136,6.442427,3.3801623,Medium,Residential,Dense Urban,155.35,Morning/Evening Peak,6,2,False,9.4,Usage is within normal expected range compared to peers.,143.95828
+B0137,6.5921017,3.3942985,Medium,Residential,Dense Urban,157.12,Morning/Evening Peak,9,6,False,6.2,Usage is within normal expected range compared to peers.,143.95828
+B0138,6.4896386,3.3523291,Medium,Residential,Dense Urban,143.98,Morning/Evening Peak,14,3,False,12.8,Usage is within normal expected range compared to peers.,143.95828
+B0139,6.428554,3.4245763,Medium,Residential,Dense Urban,126.65,Morning/Evening Peak,11,3,False,7.0,Usage is within normal expected range compared to peers.,143.95828
+B0140,6.5922642,3.3951512,Medium,Residential,Dense Urban,173.06,Morning/Evening Peak,8,2,False,12.4,Usage is within normal expected range compared to peers.,143.95828
+B0141,6.4363135,3.4077255,Medium,Residential,Dense Urban,125.07,Constant,5,6,False,7.6,Usage is within normal expected range compared to peers.,143.95828
+B0142,6.4493077,3.3979241,Medium,Residential,Dense Urban,162.18,Morning/Evening Peak,11,2,False,6.6,Usage is within normal expected range compared to peers.,143.95828
+B0143,6.4453793,3.3761433,Medium,Residential,Dense Urban,147.78,Constant,11,5,False,12.5,Usage is within normal expected range compared to peers.,143.95828
+B0144,6.4406785,3.4073658,Medium,Residential,Dense Urban,147.16,Morning/Evening Peak,10,6,False,8.4,Usage is within normal expected range compared to peers.,143.95828
+B0145,6.4497488,3.3971034,Medium,Residential,Dense Urban,172.97,Morning/Evening Peak,11,5,False,8.2,Usage is within normal expected range compared to peers.,143.95828
+B0146,6.444033,3.3748892,Medium,Residential,Dense Urban,166.77,Morning/Evening Peak,12,4,False,8.5,Usage is within normal expected range compared to peers.,143.95828
+B0147,6.4898166,3.3528915,Medium,Residential,Dense Urban,147.6,Constant,9,3,False,9.9,Usage is within normal expected range compared to peers.,143.95828
+B0148,6.4450455,3.3767001,Medium,Residential,Dense Urban,176.52,Constant,6,5,False,13.6,Usage is within normal expected range compared to peers.,143.95828
+B0149,6.4701233,3.3694548,Medium,Residential,Dense Urban,177.37,Constant,7,2,False,14.1,Usage is within normal expected range compared to peers.,143.95828
+B0150,6.4366735,3.4234205,Medium,Residential,Dense Urban,170.59,Morning/Evening Peak,15,5,False,13.3,Usage is within normal expected range compared to peers.,143.95828
+B0151,6.4902769,3.3860927,Medium,Residential,Dense Urban,174.43,Morning/Evening Peak,9,3,False,11.5,Usage is within normal expected range compared to peers.,143.95828
+B0152,6.4648192,3.3229114,Medium,Residential,Dense Urban,25.88,Morning/Evening Peak,13,4,True,87.0,Suspiciously low usage. More than 2 std devs below average (144.0 kWh) for Medium Residential buildings.,143.95828
+B0153,6.443513,3.3773245,Medium,Residential,Dense Urban,122.75,Morning/Evening Peak,8,4,False,7.3,Usage is within normal expected range compared to peers.,143.95828
+B0154,6.4483215,3.3972904,Medium,Residential,Dense Urban,161.97,Erratic,14,6,False,28.9,Erratic load type is unusual for this property tag.,143.95828
+B0155,6.5909883,3.3942709,Medium,Residential,Dense Urban,141.13,Morning/Evening Peak,14,4,False,10.5,Usage is within normal expected range compared to peers.,143.95828
+B0156,6.5905776,3.3933544,Medium,Residential,Dense Urban,121.12,Morning/Evening Peak,11,3,False,5.8,Usage is within normal expected range compared to peers.,143.95828
+B0157,6.423263,3.4083572,Medium,Residential,Dense Urban,176.27,Morning/Evening Peak,5,3,False,9.5,Usage is within normal expected range compared to peers.,143.95828
+B0158,6.5919926,3.3934682,Medium,Residential,Dense Urban,154.05,Morning/Evening Peak,7,3,False,11.0,Usage is within normal expected range compared to peers.,143.95828
+B0159,6.4430763,3.378452,Medium,Residential,Dense Urban,167.06,Morning/Evening Peak,14,4,False,11.5,Usage is within normal expected range compared to peers.,143.95828
+B0160,6.4340819,3.4694282,Medium,Residential,Dense Urban,160.1,Constant,9,3,False,12.5,Usage is within normal expected range compared to peers.,143.95828
+B0161,6.4903286,3.3848765,Medium,Residential,Dense Urban,165.7,Morning/Evening Peak,11,4,False,11.4,Usage is within normal expected range compared to peers.,143.95828
+B0162,6.4794544,3.3617241,Medium,Residential,Dense Urban,175.87,Morning/Evening Peak,11,6,False,9.3,Usage is within normal expected range compared to peers.,143.95828
+B0163,6.5726028,3.3358299,Medium,Residential,Dense Urban,132.61,Constant,13,2,False,13.1,Usage is within normal expected range compared to peers.,143.95828
+B0164,6.4909014,3.3873524,Medium,Residential,Dense Urban,150.57,Constant,12,5,False,8.5,Usage is within normal expected range compared to peers.,143.95828
+B0165,6.5335433,3.3119217,Medium,Residential,Dense Urban,138.59,Constant,15,4,False,8.6,Usage is within normal expected range compared to peers.,143.95828
+B0166,6.4452306,3.3764158,Medium,Residential,Dense Urban,147.62,Morning/Evening Peak,14,3,False,5.6,Usage is within normal expected range compared to peers.,143.95828
+B0167,6.5909909,3.3934164,Medium,Residential,Dense Urban,143.43,Morning/Evening Peak,6,3,False,14.2,Usage is within normal expected range compared to peers.,143.95828
+B0168,6.4424343,3.3774637,Medium,Residential,Dense Urban,13.32,Morning/Evening Peak,6,2,True,87.5,Suspiciously low usage. More than 2 std devs below average (144.0 kWh) for Medium Residential buildings.,143.95828
+B0169,6.4329689,3.4704882,Medium,Residential,Dense Urban,170.47,Morning/Evening Peak,10,4,False,6.9,Usage is within normal expected range compared to peers.,143.95828
+B0170,6.4232595,3.4096842,Medium,Residential,Dense Urban,144.52,Morning/Evening Peak,10,6,False,9.3,Usage is within normal expected range compared to peers.,143.95828
+B0171,6.4243064,3.3384624,Medium,Residential,Dense Urban,133.63,Morning/Evening Peak,12,2,False,5.4,Usage is within normal expected range compared to peers.,143.95828
+B0172,6.433471,3.4697063,Medium,Residential,Dense Urban,152.18,Constant,7,3,False,8.1,Usage is within normal expected range compared to peers.,143.95828
+B0173,6.4453306,3.3760202,Medium,Residential,Dense Urban,19.83,Morning/Evening Peak,12,3,True,88.1,Suspiciously low usage. More than 2 std devs below average (144.0 kWh) for Medium Residential buildings.,143.95828
+B0174,6.4617111,3.3176796,Medium,Residential,Dense Urban,178.64,Morning/Evening Peak,11,2,False,11.6,Usage is within normal expected range compared to peers.,143.95828
+B0175,6.4708868,3.367961,Medium,Residential,Dense Urban,160.0,Morning/Evening Peak,5,3,False,13.1,Usage is within normal expected range compared to peers.,143.95828
+B0176,6.4388636,3.3816271,Medium,Residential,Dense Urban,136.32,Morning/Evening Peak,10,2,False,14.2,Usage is within normal expected range compared to peers.,143.95828
+B0177,6.591642,3.3939443,Medium,Residential,Dense Urban,150.73,Erratic,14,3,False,33.5,Erratic load type is unusual for this property tag.,143.95828
+B0178,6.4534073,3.3484225,Medium,Residential,Dense Urban,125.34,Morning/Evening Peak,10,5,False,6.9,Usage is within normal expected range compared to peers.,143.95828
+B0179,6.4972213,3.3500303,Medium,Residential,Dense Urban,144.69,Morning/Evening Peak,15,6,False,13.8,Usage is within normal expected range compared to peers.,143.95828
+B0180,6.439606,3.3914749,Medium,Residential,Dense Urban,169.28,Morning/Evening Peak,8,4,False,6.3,Usage is within normal expected range compared to peers.,143.95828
+B0181,6.5897666,3.3932351,Medium,Residential,Dense Urban,143.21,Morning/Evening Peak,5,3,False,11.7,Usage is within normal expected range compared to peers.,143.95828
+B0182,6.4965461,3.3877622,Medium,Residential,Dense Urban,168.4,Morning/Evening Peak,5,6,False,13.2,Usage is within normal expected range compared to peers.,143.95828
+B0183,6.4450627,3.3760161,Medium,Residential,Dense Urban,157.45,Morning/Evening Peak,10,2,False,12.5,Usage is within normal expected range compared to peers.,143.95828
+B0184,6.5911369,3.393669,Medium,Residential,Dense Urban,123.44,Morning/Evening Peak,10,5,False,7.0,Usage is within normal expected range compared to peers.,143.95828
+B0185,6.445378,3.3759381,Medium,Residential,Dense Urban,152.97,Morning/Evening Peak,15,2,False,10.5,Usage is within normal expected range compared to peers.,143.95828
+B0186,6.4356906,3.4211247,Medium,Residential,Dense Urban,174.48,Morning/Evening Peak,6,3,False,13.8,Usage is within normal expected range compared to peers.,143.95828
+B0187,6.4448919,3.3758264,Medium,Residential,Dense Urban,160.39,Constant,6,5,False,5.5,Usage is within normal expected range compared to peers.,143.95828
+B0188,6.4679981,3.3689784,Medium,Residential,Dense Urban,176.58,Constant,11,6,False,5.9,Usage is within normal expected range compared to peers.,143.95828
+B0189,6.5917538,3.3940098,Medium,Residential,Dense Urban,178.81,Morning/Evening Peak,6,4,False,5.8,Usage is within normal expected range compared to peers.,143.95828
+B0190,6.5926243,3.3947925,Medium,Residential,Dense Urban,141.36,Morning/Evening Peak,14,4,False,9.5,Usage is within normal expected range compared to peers.,143.95828
+B0191,6.5912986,3.3927219,Medium,Residential,Dense Urban,152.53,Constant,14,2,False,6.0,Usage is within normal expected range compared to peers.,143.95828
+B0192,6.4753414,3.3214157,Medium,Residential,Dense Urban,121.05,Morning/Evening Peak,13,2,False,11.0,Usage is within normal expected range compared to peers.,143.95828
+B0193,6.4698364,3.363898,Medium,Residential,Dense Urban,179.84,Morning/Evening Peak,8,4,False,7.5,Usage is within normal expected range compared to peers.,143.95828
+B0194,6.4329516,3.469252,Medium,Residential,Dense Urban,178.81,Constant,12,4,False,13.4,Usage is within normal expected range compared to peers.,143.95828
+B0195,6.4936359,3.3857634,Medium,Residential,Dense Urban,122.6,Constant,7,6,False,9.6,Usage is within normal expected range compared to peers.,143.95828
+B0196,6.4483773,3.3978316,Medium,Residential,Dense Urban,175.08,Morning/Evening Peak,9,4,False,7.4,Usage is within normal expected range compared to peers.,143.95828
+B0197,6.4243203,3.3376326,Medium,Residential,Dense Urban,160.63,Morning/Evening Peak,10,4,False,12.0,Usage is within normal expected range compared to peers.,143.95828
+B0198,6.4517241,3.3978982,Medium,Residential,Dense Urban,141.08,Morning/Evening Peak,9,4,False,14.5,Usage is within normal expected range compared to peers.,143.95828
+B0199,6.5916241,3.3928733,Medium,Residential,Dense Urban,129.98,Constant,9,3,False,7.8,Usage is within normal expected range compared to peers.,143.95828
+B0200,6.4791067,3.361886,Medium,Residential,Dense Urban,161.05,Constant,5,2,False,14.3,Usage is within normal expected range compared to peers.,143.95828
+B0201,6.4364202,3.4163946,Medium,Residential,Dense Urban,16.31,Constant,11,3,True,93.9,Suspiciously low usage. More than 2 std devs below average (144.0 kWh) for Medium Residential buildings.,143.95828
+B0202,6.4340705,3.4692521,Medium,Residential,Dense Urban,19.23,Constant,13,6,True,86.6,Suspiciously low usage. More than 2 std devs below average (144.0 kWh) for Medium Residential buildings.,143.95828
+B0203,6.4956627,3.3866202,Medium,Residential,Dense Urban,162.93,Morning/Evening Peak,15,2,False,8.4,Usage is within normal expected range compared to peers.,143.95828
+B0204,6.4956735,3.387405,Medium,Residential,Dense Urban,171.56,Erratic,6,3,False,26.7,Erratic load type is unusual for this property tag.,143.95828
+B0205,6.4518015,3.3974941,Medium,Residential,Dense Urban,163.14,Erratic,15,3,False,28.1,Erratic load type is unusual for this property tag.,143.95828
+B0206,6.4516266,3.3974405,Medium,Residential,Dense Urban,129.07,Morning/Evening Peak,8,4,False,6.3,Usage is within normal expected range compared to peers.,143.95828
+B0207,6.424719,3.4515679,Medium,Residential,Dense Urban,168.85,Morning/Evening Peak,8,6,False,6.0,Usage is within normal expected range compared to peers.,143.95828
+B0208,6.433696,3.4079273,Medium,Residential,Dense Urban,149.99,Morning/Evening Peak,8,5,False,5.4,Usage is within normal expected range compared to peers.,143.95828
+B0209,6.449997,3.3964387,Medium,Residential,Dense Urban,125.92,Erratic,10,2,False,25.6,Erratic load type is unusual for this property tag.,143.95828
+B0210,6.4358333,3.354727,Medium,Residential,Dense Urban,122.58,Morning/Evening Peak,6,6,False,7.8,Usage is within normal expected range compared to peers.,143.95828
+B0211,6.4937121,3.3860064,Medium,Residential,Dense Urban,173.76,Morning/Evening Peak,13,3,False,13.9,Usage is within normal expected range compared to peers.,143.95828
+B0212,6.4680008,3.3683023,Medium,Residential,Dense Urban,169.94,Morning/Evening Peak,11,5,False,12.6,Usage is within normal expected range compared to peers.,143.95828
+B0213,6.4229956,3.410344,Medium,Residential,Dense Urban,171.6,Morning/Evening Peak,7,5,False,14.9,Usage is within normal expected range compared to peers.,143.95828
+B0214,6.4245037,3.3383608,Medium,Residential,Dense Urban,31.0,Morning/Evening Peak,10,5,True,89.7,Suspiciously low usage. More than 2 std devs below average (144.0 kWh) for Medium Residential buildings.,143.95828
+B0215,6.4533828,3.348319,Medium,Residential,Dense Urban,148.83,Morning/Evening Peak,13,6,False,10.1,Usage is within normal expected range compared to peers.,143.95828
+B0216,6.4486176,3.398741,Medium,Residential,Dense Urban,149.47,Erratic,13,5,False,30.6,Erratic load type is unusual for this property tag.,143.95828
+B0217,6.4764727,3.3694922,Medium,Residential,Dense Urban,126.57,Constant,15,4,False,12.5,Usage is within normal expected range compared to peers.,143.95828
+B0218,6.4900419,3.3845919,Medium,Residential,Dense Urban,124.31,Morning/Evening Peak,8,3,False,5.8,Usage is within normal expected range compared to peers.,143.95828
+B0219,6.4358054,3.4841919,Medium,Residential,Dense Urban,159.07,Morning/Evening Peak,12,2,False,8.8,Usage is within normal expected range compared to peers.,143.95828
+B0220,6.5916133,3.3935774,Medium,Residential,Dense Urban,141.22,Erratic,8,6,False,29.8,Erratic load type is unusual for this property tag.,143.95828
+B0221,6.4635999,3.303123,Medium,Residential,Dense Urban,137.21,Morning/Evening Peak,8,5,False,11.8,Usage is within normal expected range compared to peers.,143.95828
+B0222,6.4335623,3.4206149,Medium,Residential,Dense Urban,176.96,Morning/Evening Peak,8,4,False,5.6,Usage is within normal expected range compared to peers.,143.95828
+B0223,6.4389582,3.389939,Medium,Residential,Dense Urban,138.36,Morning/Evening Peak,7,4,False,14.9,Usage is within normal expected range compared to peers.,143.95828
+B0224,6.450521,3.4058598,Medium,Residential,Dense Urban,140.54,Morning/Evening Peak,13,6,False,13.1,Usage is within normal expected range compared to peers.,143.95828
+B0225,6.4512825,3.3945076,Medium,Residential,Dense Urban,176.87,Erratic,10,6,False,27.1,Erratic load type is unusual for this property tag.,143.95828
+B0226,6.4382685,3.3902469,Medium,Residential,Dense Urban,149.83,Constant,9,5,False,13.0,Usage is within normal expected range compared to peers.,143.95828
+B0227,6.444982,3.3758792,Medium,Residential,Dense Urban,130.13,Morning/Evening Peak,6,5,False,13.9,Usage is within normal expected range compared to peers.,143.95828
+B0228,6.4252611,3.4266489,Medium,Residential,Dense Urban,122.72,Erratic,7,4,False,34.6,Erratic load type is unusual for this property tag.,143.95828
+B0229,6.4508907,3.3980707,Medium,Residential,Dense Urban,142.34,Constant,9,5,False,5.5,Usage is within normal expected range compared to peers.,143.95828
+B0230,6.4256175,3.3364479,Medium,Residential,Dense Urban,175.93,Morning/Evening Peak,12,4,False,5.6,Usage is within normal expected range compared to peers.,143.95828
+B0231,6.4411312,3.3845685,Medium,Residential,Dense Urban,138.6,Constant,10,5,False,7.8,Usage is within normal expected range compared to peers.,143.95828
+B0232,6.5923195,3.3929059,Medium,Residential,Dense Urban,131.75,Morning/Evening Peak,14,6,False,11.9,Usage is within normal expected range compared to peers.,143.95828
+B0233,6.436893,3.3938733,Medium,Residential,Dense Urban,139.68,Morning/Evening Peak,6,3,False,6.9,Usage is within normal expected range compared to peers.,143.95828
+B0234,6.4329726,3.4700502,Medium,Residential,Dense Urban,158.52,Morning/Evening Peak,13,5,False,8.3,Usage is within normal expected range compared to peers.,143.95828
+B0235,6.5921434,3.3945883,Medium,Residential,Dense Urban,135.68,Constant,9,5,False,12.9,Usage is within normal expected range compared to peers.,143.95828
+B0236,6.4338222,3.4696882,Medium,Residential,Dense Urban,130.44,Morning/Evening Peak,8,3,False,9.1,Usage is within normal expected range compared to peers.,143.95828
+B0237,6.5719179,3.3353077,Medium,Residential,Dense Urban,129.6,Morning/Evening Peak,6,5,False,13.1,Usage is within normal expected range compared to peers.,143.95828
+B0238,6.4545029,3.3554096,Medium,Residential,Dense Urban,141.39,Constant,9,3,False,12.5,Usage is within normal expected range compared to peers.,143.95828
+B0239,6.4615192,3.3919502,Medium,Residential,Dense Urban,167.69,Constant,10,6,False,11.3,Usage is within normal expected range compared to peers.,143.95828
+B0240,6.4465117,3.3977484,Medium,Residential,Dense Urban,171.49,Morning/Evening Peak,8,2,False,14.3,Usage is within normal expected range compared to peers.,143.95828
+B0241,6.4645528,3.3022042,Medium,Residential,Dense Urban,120.66,Morning/Evening Peak,13,4,False,6.3,Usage is within normal expected range compared to peers.,143.95828
+B0242,6.4351141,3.4081065,Medium,Residential,Dense Urban,139.76,Constant,8,4,False,5.4,Usage is within normal expected range compared to peers.,143.95828
+B0243,6.4958368,3.3868997,Medium,Residential,Dense Urban,122.85,Morning/Evening Peak,12,6,False,10.1,Usage is within normal expected range compared to peers.,143.95828
+B0244,6.4515776,3.3981211,Medium,Residential,Dense Urban,156.7,Morning/Evening Peak,5,6,False,5.4,Usage is within normal expected range compared to peers.,143.95828
+B0245,6.4800191,3.3586451,Medium,Residential,Dense Urban,20.21,Morning/Evening Peak,10,3,True,91.2,Suspiciously low usage. More than 2 std devs below average (144.0 kWh) for Medium Residential buildings.,143.95828
+B0246,6.5847752,3.3327574,Medium,Residential,Dense Urban,133.26,Constant,10,2,False,6.0,Usage is within normal expected range compared to peers.,143.95828
+B0247,6.467894,3.3809889,Medium,Residential,Dense Urban,173.4,Constant,11,2,False,7.7,Usage is within normal expected range compared to peers.,143.95828
+B0248,6.4514156,3.3972452,Medium,Residential,Dense Urban,130.75,Morning/Evening Peak,9,3,False,11.9,Usage is within normal expected range compared to peers.,143.95828
+B0249,6.4901153,3.3857744,Medium,Residential,Dense Urban,128.86,Morning/Evening Peak,6,2,False,10.2,Usage is within normal expected range compared to peers.,143.95828

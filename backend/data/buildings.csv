@@ -1,0 +1,251 @@
+building_id,lat,lng,building_size_category,property_tag,neighborhood_type,monthly_usage_kwh,load_type,blackout_frequency,average_blackout_duration_hrs,is_theft_simulated,expected_monthly_usage_kwh,risk_score,anomaly_reason
+B0000,6.5910356,3.3944231,Large,Commercial,Commercial District,898.13,Constant,2,1,False,1013.3372222222222,8.6,Usage is within normal expected range compared to peers.
+B0001,6.4236528,3.3395741,Small,Residential,Suburb,58.39,Constant,6,3,False,47.352999999999994,10.1,Usage is within normal expected range compared to peers.
+B0002,6.4365198,3.4842526,Huge,Industrial,Commercial District,809.92,Constant Heavy,4,3,True,4032.0216666666665,89.9,Suspiciously low usage. More than 2 std devs below average (4032.0 kWh) for Huge Industrial buildings.
+B0003,6.4369161,3.4189707,Huge,Residential,Commercial District,879.65,Morning/Evening Peak,3,2,False,843.0926315789474,11.3,Usage is within normal expected range compared to peers.
+B0004,6.4225354,3.4107627,Large,Residential,Slum,454.14,Morning/Evening Peak,20,6,False,412.80782608695654,19.5,Usage is within normal expected range compared to peers.
+B0005,6.4356163,3.4206612,Large,Industrial,Slum,1644.14,Constant Heavy,27,7,False,1901.3005555555558,24.8,Usage is within normal expected range compared to peers.
+B0006,6.4464736,3.3751271,Huge,Commercial,Suburb,2718.71,Daytime Peak,2,4,False,2410.923448275862,14.0,Usage is within normal expected range compared to peers.
+B0007,6.5919512,3.392841,Huge,Industrial,Suburb,999.12,Constant Heavy,4,3,True,4032.0216666666665,54.2,Noticeably below average (4032.0 kWh) for Huge Industrial buildings.
+B0008,6.4251994,3.3369717,Medium,Residential,Suburb,122.59,Constant,9,3,False,143.5676,54.1,Noticeably below average (143.6 kWh) for Medium Residential buildings.
+B0009,6.4489973,3.398052,Small,Residential,Dense Urban,41.47,Morning/Evening Peak,5,3,False,47.352999999999994,11.8,Usage is within normal expected range compared to peers.
+B0010,6.4486803,3.397444,Small,Residential,Suburb,41.68,Constant,3,3,False,47.352999999999994,5.6,Usage is within normal expected range compared to peers.
+B0011,6.4337898,3.4083752,Large,Commercial,Dense Urban,814.21,Daytime Peak,6,5,False,1013.3372222222222,54.9,Noticeably below average (1013.3 kWh) for Large Commercial buildings.
+B0012,6.4329747,3.4698663,Small,Residential,Dense Urban,43.6,Constant,9,2,False,47.352999999999994,7.6,Usage is within normal expected range compared to peers.
+B0013,6.5906532,3.3932426,Large,Residential,Commercial District,431.77,Erratic,2,1,False,412.80782608695654,26.3,Erratic load type is unusual for this property tag.
+B0014,6.4409409,3.3880445,Huge,Industrial,Slum,845.64,Constant Heavy,21,4,True,4032.0216666666665,96.5,Suspiciously low usage. More than 2 std devs below average (4032.0 kWh) for Huge Industrial buildings.
+B0015,6.4327428,3.4694276,Huge,Residential,Commercial District,814.24,Constant,5,1,False,843.0926315789474,8.0,Usage is within normal expected range compared to peers.
+B0016,6.4563492,3.3837304,Large,Residential,Slum,425.79,Constant,29,10,False,412.80782608695654,20.5,Usage is within normal expected range compared to peers.
+B0017,6.4678734,3.4451979,Small,Residential,Commercial District,52.55,Morning/Evening Peak,1,2,False,47.352999999999994,7.3,Usage is within normal expected range compared to peers.
+B0018,6.4264639,3.338484,Large,Commercial,Suburb,959.27,Daytime Peak,6,5,False,1013.3372222222222,9.9,Usage is within normal expected range compared to peers.
+B0019,6.5916133,3.3935774,Medium,Industrial,Dense Urban,640.89,Constant Heavy,5,4,False,718.9705,7.0,Usage is within normal expected range compared to peers.
+B0020,6.4915609,3.3853538,Large,Industrial,Dense Urban,1867.88,Constant Heavy,15,5,False,1901.3005555555558,5.1,Usage is within normal expected range compared to peers.
+B0021,6.4901153,3.3857744,Medium,Industrial,Dense Urban,667.07,Constant Heavy,7,5,False,718.9705,5.6,Usage is within normal expected range compared to peers.
+B0022,6.4433895,3.3775258,Large,Commercial,Slum,1194.09,Daytime Peak,15,8,False,1013.3372222222222,13.4,Usage is within normal expected range compared to peers.
+B0023,6.4454666,3.3759681,Huge,Commercial,Commercial District,2931.79,Daytime Peak,5,1,False,2410.923448275862,11.0,Usage is within normal expected range compared to peers.
+B0024,6.446528,3.3750583,Large,Industrial,Suburb,2114.37,Constant Heavy,9,2,False,1901.3005555555558,14.5,Usage is within normal expected range compared to peers.
+B0025,6.4626594,3.317566,Huge,Commercial,Commercial District,2635.35,Constant,4,1,False,2410.923448275862,12.0,Usage is within normal expected range compared to peers.
+B0026,6.4496188,3.3974366,Large,Residential,Commercial District,472.24,Morning/Evening Peak,5,2,False,412.80782608695654,9.8,Usage is within normal expected range compared to peers.
+B0027,6.4766848,3.3661286,Medium,Industrial,Slum,600.68,Constant Heavy,15,6,False,718.9705,48.6,Noticeably below average (719.0 kWh) for Medium Industrial buildings.
+B0028,6.4484563,3.3971332,Large,Industrial,Dense Urban,1624.22,Constant Heavy,11,3,False,1901.3005555555558,10.5,Usage is within normal expected range compared to peers.
+B0029,6.5916241,3.3928733,Medium,Industrial,Suburb,659.63,Constant Heavy,7,3,False,718.9705,9.6,Usage is within normal expected range compared to peers.
+B0030,6.4431743,3.3781859,Medium,Industrial,Dense Urban,646.8,Constant Heavy,13,2,False,718.9705,11.4,Usage is within normal expected range compared to peers.
+B0031,6.4340949,3.4704777,Huge,Industrial,Commercial District,5493.68,Constant Heavy,4,1,False,4032.0216666666665,14.2,Usage is within normal expected range compared to peers.
+B0032,6.4457851,3.3764429,Large,Residential,Suburb,414.09,Morning/Evening Peak,5,3,False,412.80782608695654,5.3,Usage is within normal expected range compared to peers.
+B0033,6.436893,3.3938733,Medium,Commercial,Dense Urban,357.89,Daytime Peak,8,5,False,366.41720000000004,6.7,Usage is within normal expected range compared to peers.
+B0034,6.4436688,3.3772373,Medium,Commercial,Dense Urban,414.63,Constant,8,6,False,366.41720000000004,9.2,Usage is within normal expected range compared to peers.
+B0035,6.4511083,3.3973652,Small,Industrial,Slum,268.91,Constant Heavy,28,5,False,255.02166666666668,15.5,Usage is within normal expected range compared to peers.
+B0036,6.4497862,3.3990963,Large,Residential,Dense Urban,423.42,Constant,9,6,False,412.80782608695654,9.4,Usage is within normal expected range compared to peers.
+B0037,6.4497286,3.3982602,Huge,Commercial,Suburb,2713.28,Daytime Peak,8,3,False,2410.923448275862,14.6,Usage is within normal expected range compared to peers.
+B0038,6.591642,3.3939443,Small,Commercial,Slum,106.94,Constant,21,11,False,108.35470588235295,23.0,Usage is within normal expected range compared to peers.
+B0039,6.5923213,3.3939001,Huge,Residential,Commercial District,937.77,Erratic,2,1,False,843.0926315789474,32.8,Erratic load type is unusual for this property tag.
+B0040,6.5905776,3.3933544,Medium,Residential,Suburb,120.64,Morning/Evening Peak,2,5,False,143.5676,54.4,Noticeably below average (143.6 kWh) for Medium Residential buildings.
+B0041,6.4432031,3.3778429,Huge,Commercial,Dense Urban,2674.49,Daytime Peak,15,4,False,2410.923448275862,6.9,Usage is within normal expected range compared to peers.
+B0042,6.4955224,3.3865844,Small,Commercial,Dense Urban,105.8,Daytime Peak,6,6,False,108.35470588235295,11.9,Usage is within normal expected range compared to peers.
+B0043,6.4769786,3.3664478,Medium,Commercial,Slum,413.52,Daytime Peak,20,11,False,366.41720000000004,22.5,Usage is within normal expected range compared to peers.
+B0044,6.5920627,3.3927475,Large,Commercial,Suburb,1049.41,Daytime Peak,7,5,False,1013.3372222222222,13.5,Usage is within normal expected range compared to peers.
+B0045,6.4344205,3.4082589,Huge,Commercial,Slum,2835.55,Daytime Peak,27,8,False,2410.923448275862,15.3,Usage is within normal expected range compared to peers.
+B0046,6.4451671,3.3757768,Small,Industrial,Dense Urban,233.89,Constant Heavy,11,2,False,255.02166666666668,9.9,Usage is within normal expected range compared to peers.
+B0047,6.4958368,3.3868997,Huge,Commercial,Dense Urban,2435.2,Daytime Peak,8,3,False,2410.923448275862,9.1,Usage is within normal expected range compared to peers.
+B0048,6.4912621,3.3861365,Medium,Commercial,Suburb,354.55,Daytime Peak,3,4,False,366.41720000000004,10.6,Usage is within normal expected range compared to peers.
+B0049,6.4770197,3.3655682,Small,Industrial,Dense Urban,215.21,Constant Heavy,11,5,False,255.02166666666668,50.1,Noticeably below average (255.0 kWh) for Small Industrial buildings.
+B0050,6.590971,3.3947174,Large,Residential,Commercial District,414.52,Morning/Evening Peak,2,1,False,412.80782608695654,8.2,Usage is within normal expected range compared to peers.
+B0051,6.4451999,3.3762745,Small,Commercial,Slum,125.97,Daytime Peak,20,7,False,108.35470588235295,18.7,Usage is within normal expected range compared to peers.
+B0052,6.4647445,3.3221069,Medium,Commercial,Slum,398.77,Daytime Peak,18,6,False,366.41720000000004,17.1,Usage is within normal expected range compared to peers.
+B0053,6.5909883,3.3942709,Huge,Residential,Suburb,192.21,Constant,8,2,True,843.0926315789474,90.2,Suspiciously low usage. More than 2 std devs below average (843.1 kWh) for Huge Residential buildings.
+B0054,6.491135,3.3858388,Small,Industrial,Suburb,230.14,Constant Heavy,10,4,False,255.02166666666668,8.1,Usage is within normal expected range compared to peers.
+B0055,6.4959184,3.3852705,Large,Industrial,Suburb,233.41,Constant Heavy,3,3,True,1901.3005555555558,94.2,Suspiciously low usage. More than 2 std devs below average (1901.3 kWh) for Large Industrial buildings.
+B0056,6.4368812,3.4228542,Small,Residential,Dense Urban,51.49,Morning/Evening Peak,7,2,False,47.352999999999994,13.3,Usage is within normal expected range compared to peers.
+B0057,6.4802678,3.3616497,Medium,Commercial,Suburb,390.73,Daytime Peak,10,2,False,366.41720000000004,11.6,Usage is within normal expected range compared to peers.
+B0058,6.433351,3.42051,Small,Commercial,Suburb,103.78,Daytime Peak,7,2,False,108.35470588235295,5.2,Usage is within normal expected range compared to peers.
+B0059,6.4448191,3.3767919,Huge,Industrial,Dense Urban,4138.31,Constant Heavy,15,4,False,4032.0216666666665,12.2,Usage is within normal expected range compared to peers.
+B0060,6.5912752,3.3927895,Huge,Commercial,Slum,2439.58,Daytime Peak,22,6,False,2410.923448275862,23.6,Usage is within normal expected range compared to peers.
+B0061,6.4441681,3.3761132,Medium,Residential,Commercial District,142.36,Morning/Evening Peak,3,3,False,143.5676,7.5,Usage is within normal expected range compared to peers.
+B0062,6.4389582,3.389939,Large,Residential,Slum,438.31,Morning/Evening Peak,19,6,False,412.80782608695654,20.9,Usage is within normal expected range compared to peers.
+B0063,6.533183,3.3110729,Medium,Commercial,Suburb,308.11,Constant,8,5,False,366.41720000000004,14.1,Usage is within normal expected range compared to peers.
+B0064,6.4340819,3.4694282,Medium,Residential,Commercial District,143.26,Morning/Evening Peak,2,3,False,143.5676,6.6,Usage is within normal expected range compared to peers.
+B0065,6.4530237,3.401674,Small,Commercial,Slum,18.97,Daytime Peak,15,12,True,108.35470588235295,85.4,Suspiciously low usage. More than 2 std devs below average (108.4 kWh) for Small Commercial buildings.
+B0066,6.4562252,3.3838743,Small,Residential,Suburb,54.98,Morning/Evening Peak,3,3,False,47.352999999999994,9.8,Usage is within normal expected range compared to peers.
+B0067,6.501925,3.3652102,Medium,Industrial,Dense Urban,693.3,Constant Heavy,7,3,False,718.9705,14.5,Usage is within normal expected range compared to peers.
+B0068,6.4482448,3.397461,Medium,Commercial,Dense Urban,49.78,Constant,15,2,True,366.41720000000004,89.2,Suspiciously low usage. More than 2 std devs below average (366.4 kWh) for Medium Commercial buildings.
+B0069,6.4251069,3.4099901,Huge,Commercial,Suburb,2305.46,Daytime Peak,10,5,False,2410.923448275862,7.2,Usage is within normal expected range compared to peers.
+B0070,6.4916404,3.3883575,Medium,Industrial,Slum,626.12,Constant Heavy,24,5,False,718.9705,63.1,Noticeably below average (719.0 kWh) for Medium Industrial buildings.
+B0071,6.4953881,3.3857748,Small,Residential,Commercial District,57.45,Morning/Evening Peak,1,2,False,47.352999999999994,10.4,Usage is within normal expected range compared to peers.
+B0072,6.4438377,3.376925,Medium,Commercial,Commercial District,352.79,Daytime Peak,1,3,False,366.41720000000004,13.2,Usage is within normal expected range compared to peers.
+B0073,6.4465964,3.3749779,Huge,Commercial,Commercial District,2696.98,Daytime Peak,2,1,False,2410.923448275862,10.9,Usage is within normal expected range compared to peers.
+B0074,6.4359537,3.4515828,Small,Residential,Dense Urban,52.78,Morning/Evening Peak,14,3,False,47.352999999999994,9.0,Usage is within normal expected range compared to peers.
+B0075,6.4959073,3.3882859,Large,Residential,Commercial District,417.6,Morning/Evening Peak,1,3,False,412.80782608695654,6.1,Usage is within normal expected range compared to peers.
+B0076,6.4914415,3.3871191,Large,Commercial,Slum,866.86,Daytime Peak,29,9,False,1013.3372222222222,61.8,Noticeably below average (1013.3 kWh) for Large Commercial buildings.
+B0077,6.5000885,3.3896774,Huge,Residential,Slum,935.1,Morning/Evening Peak,16,6,False,843.0926315789474,21.4,Usage is within normal expected range compared to peers.
+B0078,6.4231206,3.4068593,Medium,Industrial,Commercial District,826.29,Constant Heavy,2,2,False,718.9705,14.7,Usage is within normal expected range compared to peers.
+B0079,6.4414791,3.4198066,Small,Industrial,Suburb,289.31,Constant Heavy,7,3,False,255.02166666666668,7.1,Usage is within normal expected range compared to peers.
+B0080,6.4258218,3.4087311,Huge,Commercial,Suburb,2657.56,Daytime Peak,2,5,False,2410.923448275862,11.6,Usage is within normal expected range compared to peers.
+B0081,6.4332899,3.4692032,Medium,Industrial,Suburb,671.82,Constant Heavy,3,2,False,718.9705,14.8,Usage is within normal expected range compared to peers.
+B0082,6.4700945,3.3652993,Huge,Commercial,Dense Urban,2892.57,Daytime Peak,15,3,False,2410.923448275862,14.9,Usage is within normal expected range compared to peers.
+B0083,6.4437828,3.3770276,Huge,Industrial,Slum,4378.88,Constant Heavy,21,9,False,4032.0216666666665,17.9,Usage is within normal expected range compared to peers.
+B0084,6.5925504,3.3936298,Large,Residential,Slum,422.13,Constant,30,7,False,412.80782608695654,19.9,Usage is within normal expected range compared to peers.
+B0085,6.4436235,3.4227306,Huge,Industrial,Suburb,5467.84,Constant Heavy,5,2,False,4032.0216666666665,13.1,Usage is within normal expected range compared to peers.
+B0086,6.5917706,3.3936805,Medium,Residential,Suburb,162.59,Constant,8,3,False,143.5676,10.2,Usage is within normal expected range compared to peers.
+B0087,6.4240585,3.4097494,Medium,Commercial,Slum,438.76,Daytime Peak,29,4,False,366.41720000000004,24.5,Usage is within normal expected range compared to peers.
+B0088,6.4956735,3.387405,Medium,Commercial,Dense Urban,406.72,Daytime Peak,11,2,False,366.41720000000004,10.8,Usage is within normal expected range compared to peers.
+B0089,6.5339503,3.3129376,Medium,Commercial,Commercial District,419.65,Daytime Peak,4,2,False,366.41720000000004,14.7,Usage is within normal expected range compared to peers.
+B0090,6.4912764,3.3871825,Large,Industrial,Suburb,2013.93,Constant Heavy,7,2,False,1901.3005555555558,14.9,Usage is within normal expected range compared to peers.
+B0091,6.440024,3.4081607,Huge,Commercial,Dense Urban,495.64,Daytime Peak,6,2,True,2410.923448275862,85.1,Suspiciously low usage. More than 2 std devs below average (2410.9 kWh) for Huge Commercial buildings.
+B0092,6.4972213,3.3500303,Huge,Residential,Slum,1012.8,Morning/Evening Peak,20,10,False,843.0926315789474,16.3,Usage is within normal expected range compared to peers.
+B0093,6.4503844,3.4162481,Small,Industrial,Commercial District,238.2,Constant Heavy,2,1,False,255.02166666666668,5.9,Usage is within normal expected range compared to peers.
+B0094,6.4464841,3.3749161,Medium,Residential,Suburb,123.84,Morning/Evening Peak,2,2,False,143.5676,54.9,Noticeably below average (143.6 kWh) for Medium Residential buildings.
+B0095,6.4399173,3.4084179,Medium,Commercial,Suburb,350.48,Constant,5,5,False,366.41720000000004,13.8,Usage is within normal expected range compared to peers.
+B0096,6.4615192,3.3919502,Large,Commercial,Commercial District,1076.18,Daytime Peak,5,3,False,1013.3372222222222,6.1,Usage is within normal expected range compared to peers.
+B0097,6.4827278,3.3602366,Huge,Commercial,Dense Urban,2852.23,Daytime Peak,7,3,False,2410.923448275862,5.5,Usage is within normal expected range compared to peers.
+B0098,6.4481083,3.3976307,Large,Commercial,Suburb,1153.12,Daytime Peak,5,4,False,1013.3372222222222,6.3,Usage is within normal expected range compared to peers.
+B0099,6.4702644,3.3697064,Medium,Residential,Commercial District,170.05,Morning/Evening Peak,2,3,False,143.5676,5.9,Usage is within normal expected range compared to peers.
+B0100,6.4434183,3.3807329,Small,Residential,Dense Urban,52.8,Morning/Evening Peak,5,2,False,47.352999999999994,5.0,Usage is within normal expected range compared to peers.
+B0101,6.4332627,3.470223,Large,Industrial,Dense Urban,2199.91,Constant Heavy,13,3,False,1901.3005555555558,5.7,Usage is within normal expected range compared to peers.
+B0102,6.4680008,3.3683023,Small,Industrial,Slum,266.46,Constant Heavy,22,6,False,255.02166666666668,22.1,Usage is within normal expected range compared to peers.
+B0103,6.433696,3.4079273,Large,Residential,Commercial District,469.59,Morning/Evening Peak,1,2,False,412.80782608695654,9.3,Usage is within normal expected range compared to peers.
+B0104,6.439179,3.4066572,Large,Residential,Suburb,390.67,Morning/Evening Peak,9,5,False,412.80782608695654,10.2,Usage is within normal expected range compared to peers.
+B0105,6.4389095,3.3928272,Large,Commercial,Commercial District,987.71,Daytime Peak,3,2,False,1013.3372222222222,11.8,Usage is within normal expected range compared to peers.
+B0106,6.5340354,3.3113763,Medium,Residential,Slum,167.52,Morning/Evening Peak,21,11,False,143.5676,17.6,Usage is within normal expected range compared to peers.
+B0107,6.4351141,3.4081065,Large,Residential,Suburb,462.96,Erratic,4,3,False,412.80782608695654,25.3,Erratic load type is unusual for this property tag.
+B0108,6.591167,3.3930596,Small,Commercial,Dense Urban,147.72,Daytime Peak,14,6,False,108.35470588235295,5.2,Usage is within normal expected range compared to peers.
+B0109,6.4232429,3.4081917,Large,Industrial,Dense Urban,2398.97,Constant Heavy,9,2,False,1901.3005555555558,12.3,Usage is within normal expected range compared to peers.
+B0110,6.4301274,3.4207064,Small,Industrial,Slum,254.51,Constant Heavy,27,10,False,255.02166666666668,20.4,Usage is within normal expected range compared to peers.
+B0111,6.5870649,3.3550851,Small,Residential,Slum,45.14,Constant,16,6,False,47.352999999999994,23.9,Usage is within normal expected range compared to peers.
+B0112,6.5897666,3.3932351,Large,Commercial,Slum,1160.95,Daytime Peak,23,12,False,1013.3372222222222,15.2,Usage is within normal expected range compared to peers.
+B0113,6.4359331,3.4472114,Medium,Industrial,Suburb,850.53,Constant Heavy,7,5,False,718.9705,13.3,Usage is within normal expected range compared to peers.
+B0114,6.4484124,3.3975887,Large,Residential,Slum,431.24,Constant,27,10,False,412.80782608695654,15.7,Usage is within normal expected range compared to peers.
+B0115,6.4498764,3.3976648,Huge,Commercial,Commercial District,2509.55,Daytime Peak,2,1,False,2410.923448275862,7.8,Usage is within normal expected range compared to peers.
+B0116,6.4483773,3.3978316,Huge,Industrial,Slum,4156.72,Constant Heavy,18,11,False,4032.0216666666665,16.1,Usage is within normal expected range compared to peers.
+B0117,6.4774996,3.3657993,Huge,Residential,Dense Urban,808.46,Morning/Evening Peak,5,4,False,843.0926315789474,14.5,Usage is within normal expected range compared to peers.
+B0118,6.4440235,3.3763964,Huge,Industrial,Slum,4353.28,Constant Heavy,17,5,False,4032.0216666666665,17.4,Usage is within normal expected range compared to peers.
+B0119,6.4338081,3.4692495,Large,Residential,Suburb,396.09,Constant,7,5,False,412.80782608695654,11.2,Usage is within normal expected range compared to peers.
+B0120,6.4335736,3.469066,Small,Industrial,Commercial District,210.87,Constant Heavy,5,3,False,255.02166666666668,51.4,Noticeably below average (255.0 kWh) for Small Industrial buildings.
+B0121,6.4463929,3.3752517,Large,Residential,Slum,320.66,Morning/Evening Peak,30,11,False,412.80782608695654,100.0,Suspiciously low usage. More than 2 std devs below average (412.8 kWh) for Large Residential buildings.
+B0122,6.434279,3.4692514,Huge,Residential,Dense Urban,978.85,Morning/Evening Peak,7,5,False,843.0926315789474,13.9,Usage is within normal expected range compared to peers.
+B0123,6.47039,3.3650651,Large,Industrial,Suburb,2299.58,Constant Heavy,4,2,False,1901.3005555555558,5.3,Usage is within normal expected range compared to peers.
+B0124,6.4396322,3.4056916,Huge,Industrial,Dense Urban,4607.91,Constant Heavy,11,5,False,4032.0216666666665,12.0,Usage is within normal expected range compared to peers.
+B0125,6.4243925,3.4090654,Large,Residential,Slum,328.89,Erratic,28,10,False,412.80782608695654,100.0,Suspiciously low usage. More than 2 std devs below average (412.8 kWh) for Large Residential buildings. Erratic load type is unusual for this property tag.
+B0126,6.4448761,3.3769419,Medium,Residential,Commercial District,148.83,Morning/Evening Peak,4,1,False,143.5676,7.6,Usage is within normal expected range compared to peers.
+B0127,6.4933762,3.388337,Medium,Commercial,Dense Urban,340.04,Daytime Peak,6,5,False,366.41720000000004,10.6,Usage is within normal expected range compared to peers.
+B0128,6.4345175,3.4691507,Large,Commercial,Dense Urban,1181.99,Daytime Peak,12,3,False,1013.3372222222222,6.1,Usage is within normal expected range compared to peers.
+B0129,6.5919689,3.3942384,Medium,Commercial,Commercial District,421.7,Daytime Peak,5,1,False,366.41720000000004,11.1,Usage is within normal expected range compared to peers.
+B0130,6.443513,3.3773245,Small,Industrial,Dense Urban,260.75,Constant Heavy,10,4,False,255.02166666666668,10.9,Usage is within normal expected range compared to peers.
+B0131,6.5908217,3.3938555,Huge,Industrial,Slum,4414.88,Constant Heavy,26,11,False,4032.0216666666665,22.4,Usage is within normal expected range compared to peers.
+B0132,6.450521,3.4058598,Large,Commercial,Slum,969.46,Daytime Peak,27,10,False,1013.3372222222222,22.0,Usage is within normal expected range compared to peers.
+B0133,6.4329649,3.4690553,Huge,Commercial,Suburb,2514.84,Daytime Peak,7,5,False,2410.923448275862,9.2,Usage is within normal expected range compared to peers.
+B0134,6.4987032,3.3873617,Small,Commercial,Suburb,17.96,Daytime Peak,10,3,True,108.35470588235295,90.2,Suspiciously low usage. More than 2 std devs below average (108.4 kWh) for Small Commercial buildings.
+B0135,6.445378,3.3759381,Medium,Residential,Dense Urban,138.25,Morning/Evening Peak,13,4,False,143.5676,13.0,Usage is within normal expected range compared to peers.
+B0136,6.451077,3.3990048,Medium,Industrial,Commercial District,773.12,Constant Heavy,2,3,False,718.9705,5.3,Usage is within normal expected range compared to peers.
+B0137,6.4395551,3.4958624,Medium,Residential,Commercial District,146.46,Morning/Evening Peak,2,3,False,143.5676,5.8,Usage is within normal expected range compared to peers.
+B0138,6.490646,3.3847633,Small,Industrial,Suburb,285.89,Constant Heavy,2,2,False,255.02166666666668,7.6,Usage is within normal expected range compared to peers.
+B0139,6.5900831,3.392924,Medium,Industrial,Suburb,759.09,Constant Heavy,7,3,False,718.9705,14.8,Usage is within normal expected range compared to peers.
+B0140,6.4920183,3.3859832,Medium,Industrial,Dense Urban,682.14,Constant Heavy,7,4,False,718.9705,12.9,Usage is within normal expected range compared to peers.
+B0141,6.489783,3.3846665,Huge,Residential,Suburb,961.99,Morning/Evening Peak,4,5,False,843.0926315789474,10.5,Usage is within normal expected range compared to peers.
+B0142,6.4809186,3.3523889,Medium,Residential,Slum,121.05,Morning/Evening Peak,30,12,False,143.5676,63.5,Noticeably below average (143.6 kWh) for Medium Residential buildings.
+B0143,6.4315209,3.48189,Small,Residential,Commercial District,47.07,Morning/Evening Peak,2,2,False,47.352999999999994,13.9,Usage is within normal expected range compared to peers.
+B0144,6.4466019,3.374741,Small,Residential,Dense Urban,54.47,Morning/Evening Peak,12,5,False,47.352999999999994,12.5,Usage is within normal expected range compared to peers.
+B0145,6.4956747,3.3864756,Medium,Commercial,Slum,428.83,Constant,30,10,False,366.41720000000004,21.6,Usage is within normal expected range compared to peers.
+B0146,6.4538079,3.3554226,Medium,Industrial,Suburb,644.08,Constant Heavy,8,2,False,718.9705,10.3,Usage is within normal expected range compared to peers.
+B0147,6.5719431,3.3365016,Medium,Industrial,Commercial District,849.62,Constant Heavy,2,3,False,718.9705,14.2,Usage is within normal expected range compared to peers.
+B0148,6.4340837,3.4690717,Huge,Commercial,Commercial District,2482.41,Daytime Peak,4,3,False,2410.923448275862,13.9,Usage is within normal expected range compared to peers.
+B0149,6.4437241,3.3769617,Small,Commercial,Suburb,128.69,Daytime Peak,6,5,False,108.35470588235295,14.4,Usage is within normal expected range compared to peers.
+B0150,6.4965348,3.3922095,Medium,Commercial,Suburb,316.63,Constant,9,5,False,366.41720000000004,5.2,Usage is within normal expected range compared to peers.
+B0151,6.430802,3.4070974,Huge,Industrial,Dense Urban,4609.2,Constant Heavy,8,5,False,4032.0216666666665,7.5,Usage is within normal expected range compared to peers.
+B0152,6.4233763,3.4087585,Huge,Commercial,Suburb,2328.48,Constant,7,3,False,2410.923448275862,5.2,Usage is within normal expected range compared to peers.
+B0153,6.4911087,3.3865228,Small,Residential,Slum,41.25,Morning/Evening Peak,29,4,False,47.352999999999994,19.4,Usage is within normal expected range compared to peers.
+B0154,6.4494804,3.3970214,Medium,Residential,Dense Urban,175.91,Morning/Evening Peak,8,3,False,143.5676,9.6,Usage is within normal expected range compared to peers.
+B0155,6.5724048,3.3358538,Huge,Commercial,Slum,2397.7,Daytime Peak,24,6,False,2410.923448275862,24.3,Usage is within normal expected range compared to peers.
+B0156,6.4263767,3.3325948,Large,Commercial,Slum,1122.87,Daytime Peak,16,5,False,1013.3372222222222,15.6,Usage is within normal expected range compared to peers.
+B0157,6.4453306,3.3760202,Large,Commercial,Dense Urban,953.27,Daytime Peak,13,4,False,1013.3372222222222,8.0,Usage is within normal expected range compared to peers.
+B0158,6.4791067,3.361886,Large,Industrial,Slum,1909.37,Constant Heavy,18,11,False,1901.3005555555558,20.6,Usage is within normal expected range compared to peers.
+B0159,6.495565,3.3859956,Small,Residential,Dense Urban,8.68,Constant,14,5,True,47.352999999999994,94.1,Suspiciously low usage. More than 2 std devs below average (47.4 kWh) for Small Residential buildings.
+B0160,6.4335261,3.4702255,Huge,Industrial,Commercial District,4088.27,Constant Heavy,2,2,False,4032.0216666666665,14.6,Usage is within normal expected range compared to peers.
+B0161,6.4511248,3.3950444,Medium,Commercial,Slum,429.77,Daytime Peak,26,10,False,366.41720000000004,19.7,Usage is within normal expected range compared to peers.
+B0162,6.4901555,3.3845142,Huge,Residential,Suburb,912.06,Morning/Evening Peak,9,5,False,843.0926315789474,11.2,Usage is within normal expected range compared to peers.
+B0163,6.5909277,3.3939401,Small,Commercial,Suburb,142.68,Daytime Peak,5,3,False,108.35470588235295,5.8,Usage is within normal expected range compared to peers.
+B0164,6.4965461,3.3877622,Small,Industrial,Slum,201.28,Constant Heavy,26,7,False,255.02166666666668,58.6,Noticeably below average (255.0 kWh) for Small Industrial buildings.
+B0165,6.4691892,3.3666079,Huge,Residential,Dense Urban,911.71,Morning/Evening Peak,12,6,False,843.0926315789474,13.1,Usage is within normal expected range compared to peers.
+B0166,6.4913058,3.3880349,Medium,Residential,Dense Urban,150.41,Morning/Evening Peak,14,4,False,143.5676,7.2,Usage is within normal expected range compared to peers.
+B0167,6.4635999,3.303123,Small,Industrial,Dense Urban,278.31,Constant Heavy,7,3,False,255.02166666666668,13.9,Usage is within normal expected range compared to peers.
+B0168,6.4239956,3.3401618,Large,Residential,Commercial District,357.45,Morning/Evening Peak,4,2,False,412.80782608695654,51.5,Noticeably below average (412.8 kWh) for Large Residential buildings.
+B0169,6.4251931,3.3400191,Medium,Residential,Slum,153.01,Erratic,28,7,False,143.5676,38.6,Erratic load type is unusual for this property tag.
+B0170,6.4436253,3.3773479,Huge,Residential,Suburb,872.59,Morning/Evening Peak,3,2,False,843.0926315789474,5.5,Usage is within normal expected range compared to peers.
+B0171,6.4907354,3.3869628,Medium,Industrial,Slum,656.46,Constant Heavy,23,7,False,718.9705,18.2,Usage is within normal expected range compared to peers.
+B0172,6.4385475,3.4079921,Small,Commercial,Dense Urban,149.03,Constant,13,4,False,108.35470588235295,7.0,Usage is within normal expected range compared to peers.
+B0173,6.4506363,3.3965636,Medium,Commercial,Suburb,382.3,Daytime Peak,3,4,False,366.41720000000004,13.6,Usage is within normal expected range compared to peers.
+B0174,6.4731462,3.3817116,Small,Industrial,Suburb,232.57,Constant Heavy,2,5,False,255.02166666666668,6.2,Usage is within normal expected range compared to peers.
+B0175,6.4438706,3.3766806,Huge,Residential,Commercial District,1130.05,Morning/Evening Peak,1,3,False,843.0926315789474,11.6,Usage is within normal expected range compared to peers.
+B0176,6.4487494,3.3973501,Huge,Commercial,Dense Urban,2094.31,Daytime Peak,9,3,False,2410.923448275862,13.7,Usage is within normal expected range compared to peers.
+B0177,6.4585697,3.3536147,Huge,Industrial,Dense Urban,5071.57,Constant Heavy,15,2,False,4032.0216666666665,12.5,Usage is within normal expected range compared to peers.
+B0178,6.4431143,3.3782923,Huge,Residential,Slum,95.02,Morning/Evening Peak,30,5,True,843.0926315789474,100.0,Suspiciously low usage. More than 2 std devs below average (843.1 kWh) for Huge Residential buildings.
+B0179,6.5663603,3.3246262,Large,Commercial,Slum,1158.28,Daytime Peak,24,6,False,1013.3372222222222,18.4,Usage is within normal expected range compared to peers.
+B0180,6.49473,3.388078,Small,Industrial,Commercial District,290.25,Constant Heavy,1,2,False,255.02166666666668,11.8,Usage is within normal expected range compared to peers.
+B0181,6.4493077,3.3979241,Small,Residential,Commercial District,55.63,Morning/Evening Peak,2,2,False,47.352999999999994,8.7,Usage is within normal expected range compared to peers.
+B0182,6.5918098,3.393213,Medium,Commercial,Slum,384.89,Daytime Peak,22,12,False,366.41720000000004,21.4,Usage is within normal expected range compared to peers.
+B0183,6.4224836,3.407675,Medium,Commercial,Dense Urban,348.56,Daytime Peak,6,6,False,366.41720000000004,14.1,Usage is within normal expected range compared to peers.
+B0184,6.4646764,3.3026137,Medium,Industrial,Slum,788.39,Constant Heavy,24,6,False,718.9705,21.2,Usage is within normal expected range compared to peers.
+B0185,6.4450016,3.3756745,Large,Industrial,Commercial District,1753.62,Constant Heavy,3,1,False,1901.3005555555558,8.3,Usage is within normal expected range compared to peers.
+B0186,6.4816108,3.3518357,Huge,Residential,Commercial District,893.64,Constant,4,1,False,843.0926315789474,14.1,Usage is within normal expected range compared to peers.
+B0187,6.4315543,3.3394081,Huge,Industrial,Suburb,5487.18,Constant Heavy,5,2,False,4032.0216666666665,8.3,Usage is within normal expected range compared to peers.
+B0188,6.4342706,3.4698636,Medium,Industrial,Commercial District,733.57,Constant Heavy,1,3,False,718.9705,10.0,Usage is within normal expected range compared to peers.
+B0189,6.4910459,3.3863765,Huge,Residential,Suburb,838.33,Morning/Evening Peak,9,3,False,843.0926315789474,7.0,Usage is within normal expected range compared to peers.
+B0190,6.5921061,3.3932214,Huge,Commercial,Slum,2885.67,Daytime Peak,19,10,False,2410.923448275862,17.3,Usage is within normal expected range compared to peers.
+B0191,6.4512825,3.3945076,Large,Commercial,Commercial District,817.33,Daytime Peak,1,2,False,1013.3372222222222,50.4,Noticeably below average (1013.3 kWh) for Large Commercial buildings.
+B0192,6.5733464,3.3364838,Medium,Industrial,Slum,771.07,Constant Heavy,16,11,False,718.9705,24.3,Usage is within normal expected range compared to peers.
+B0193,6.4436242,3.3771476,Medium,Residential,Commercial District,134.35,Constant,5,3,False,143.5676,10.8,Usage is within normal expected range compared to peers.
+B0194,6.4909519,3.3861714,Large,Industrial,Suburb,2142.75,Constant Heavy,3,3,False,1901.3005555555558,13.5,Usage is within normal expected range compared to peers.
+B0195,6.423263,3.4083572,Small,Industrial,Dense Urban,281.96,Constant Heavy,14,2,False,255.02166666666668,7.3,Usage is within normal expected range compared to peers.
+B0196,6.4490351,3.3945574,Huge,Commercial,Commercial District,2931.33,Constant,4,3,False,2410.923448275862,14.7,Usage is within normal expected range compared to peers.
+B0197,6.4918608,3.3860319,Medium,Residential,Slum,120.29,Morning/Evening Peak,27,6,False,143.5676,59.2,Noticeably below average (143.6 kWh) for Medium Residential buildings.
+B0198,6.4449288,3.3763124,Medium,Residential,Suburb,162.04,Morning/Evening Peak,4,5,False,143.5676,10.9,Usage is within normal expected range compared to peers.
+B0199,6.4340537,3.4698658,Medium,Residential,Suburb,136.58,Morning/Evening Peak,9,3,False,143.5676,12.2,Usage is within normal expected range compared to peers.
+B0200,6.4516266,3.3974405,Medium,Commercial,Dense Urban,330.92,Constant,7,2,False,366.41720000000004,13.5,Usage is within normal expected range compared to peers.
+B0201,6.4337793,3.4698619,Large,Industrial,Suburb,2001.43,Constant Heavy,3,5,False,1901.3005555555558,8.7,Usage is within normal expected range compared to peers.
+B0202,6.428171,3.4291203,Large,Residential,Slum,442.46,Morning/Evening Peak,21,12,False,412.80782608695654,23.4,Usage is within normal expected range compared to peers.
+B0203,6.4513344,3.3961344,Large,Commercial,Slum,994.74,Daytime Peak,29,7,False,1013.3372222222222,19.8,Usage is within normal expected range compared to peers.
+B0204,6.4348609,3.4081784,Large,Industrial,Slum,2260.51,Constant Heavy,20,11,False,1901.3005555555558,21.7,Usage is within normal expected range compared to peers.
+B0205,6.4246366,3.4111866,Small,Commercial,Suburb,112.64,Daytime Peak,7,2,False,108.35470588235295,15.0,Usage is within normal expected range compared to peers.
+B0206,6.4248458,3.4110011,Medium,Commercial,Commercial District,425.43,Daytime Peak,5,1,False,366.41720000000004,11.1,Usage is within normal expected range compared to peers.
+B0207,6.4251241,3.3361101,Large,Industrial,Slum,1611.82,Constant Heavy,25,4,False,1901.3005555555558,21.3,Usage is within normal expected range compared to peers.
+B0208,6.4243203,3.3376326,Huge,Commercial,Slum,2405.6,Daytime Peak,19,5,False,2410.923448275862,20.3,Usage is within normal expected range compared to peers.
+B0209,6.4963772,3.3849859,Medium,Residential,Dense Urban,130.95,Morning/Evening Peak,14,3,False,143.5676,6.0,Usage is within normal expected range compared to peers.
+B0210,6.4902973,3.3857253,Small,Residential,Commercial District,46.76,Morning/Evening Peak,3,3,False,47.352999999999994,14.0,Usage is within normal expected range compared to peers.
+B0211,6.5926614,3.3937415,Medium,Residential,Dense Urban,143.81,Constant,8,2,False,143.5676,13.0,Usage is within normal expected range compared to peers.
+B0212,6.4440719,3.3763047,Huge,Commercial,Dense Urban,2067.86,Daytime Peak,11,3,False,2410.923448275862,12.9,Usage is within normal expected range compared to peers.
+B0213,6.4261109,3.332412,Large,Commercial,Commercial District,882.2,Constant,1,3,False,1013.3372222222222,47.8,Noticeably below average (1013.3 kWh) for Large Commercial buildings.
+B0214,6.4360182,3.408085,Huge,Commercial,Slum,2406.02,Daytime Peak,20,7,False,2410.923448275862,17.4,Usage is within normal expected range compared to peers.
+B0215,6.5920467,3.3933446,Medium,Commercial,Commercial District,337.33,Daytime Peak,1,2,False,366.41720000000004,7.6,Usage is within normal expected range compared to peers.
+B0216,6.4917255,3.3857313,Small,Commercial,Slum,103.07,Daytime Peak,22,5,False,108.35470588235295,24.3,Usage is within normal expected range compared to peers.
+B0217,6.4513675,3.3974404,Medium,Residential,Suburb,123.17,Morning/Evening Peak,6,2,False,143.5676,52.4,Noticeably below average (143.6 kWh) for Medium Residential buildings.
+B0218,6.5907761,3.3929944,Huge,Industrial,Slum,4207.46,Constant Heavy,23,6,False,4032.0216666666665,22.8,Usage is within normal expected range compared to peers.
+B0219,6.4686745,3.3702187,Large,Residential,Suburb,442.95,Constant,4,4,False,412.80782608695654,13.6,Usage is within normal expected range compared to peers.
+B0220,6.4679981,3.3689784,Huge,Industrial,Slum,4234.21,Constant Heavy,26,8,False,4032.0216666666665,21.5,Usage is within normal expected range compared to peers.
+B0221,6.4912699,3.3867407,Large,Industrial,Suburb,1710.47,Constant Heavy,3,3,False,1901.3005555555558,12.6,Usage is within normal expected range compared to peers.
+B0222,6.4451069,3.3762436,Small,Commercial,Commercial District,126.25,Constant,3,2,False,108.35470588235295,14.1,Usage is within normal expected range compared to peers.
+B0223,6.4471793,3.3976697,Medium,Residential,Slum,160.39,Morning/Evening Peak,26,4,False,143.5676,24.5,Usage is within normal expected range compared to peers.
+B0224,6.4438174,3.3767727,Small,Residential,Dense Urban,42.72,Constant,15,3,False,47.352999999999994,11.1,Usage is within normal expected range compared to peers.
+B0225,6.4502004,3.3946053,Huge,Residential,Commercial District,1011.04,Morning/Evening Peak,5,3,False,843.0926315789474,5.5,Usage is within normal expected range compared to peers.
+B0226,6.4452433,3.3761928,Small,Residential,Commercial District,55.38,Morning/Evening Peak,3,2,False,47.352999999999994,7.5,Usage is within normal expected range compared to peers.
+B0227,6.4453793,3.3761433,Small,Commercial,Suburb,102.1,Constant,10,5,False,108.35470588235295,11.2,Usage is within normal expected range compared to peers.
+B0228,6.4332946,3.4693816,Small,Residential,Dense Urban,42.77,Morning/Evening Peak,9,6,False,47.352999999999994,7.7,Usage is within normal expected range compared to peers.
+B0229,6.4681023,3.3803262,Large,Residential,Slum,397.07,Morning/Evening Peak,19,9,False,412.80782608695654,20.4,Usage is within normal expected range compared to peers.
+B0230,6.4807178,3.361,Small,Commercial,Dense Urban,126.23,Daytime Peak,13,6,False,108.35470588235295,14.3,Usage is within normal expected range compared to peers.
+B0231,6.4540123,3.3852811,Small,Commercial,Suburb,103.47,Constant,8,5,False,108.35470588235295,10.4,Usage is within normal expected range compared to peers.
+B0232,6.431313,3.3887539,Large,Industrial,Suburb,2102.73,Constant Heavy,2,4,False,1901.3005555555558,10.7,Usage is within normal expected range compared to peers.
+B0233,6.4342875,3.4187166,Small,Industrial,Suburb,273.48,Constant Heavy,4,4,False,255.02166666666668,13.3,Usage is within normal expected range compared to peers.
+B0234,6.4913336,3.3876736,Medium,Residential,Suburb,142.24,Morning/Evening Peak,2,5,False,143.5676,8.7,Usage is within normal expected range compared to peers.
+B0235,6.4512419,3.3977261,Huge,Commercial,Commercial District,2204.91,Daytime Peak,2,1,False,2410.923448275862,14.4,Usage is within normal expected range compared to peers.
+B0236,6.4447787,3.3768784,Small,Commercial,Dense Urban,120.73,Daytime Peak,14,3,False,108.35470588235295,10.1,Usage is within normal expected range compared to peers.
+B0237,6.4955541,3.3890231,Small,Industrial,Commercial District,278.4,Constant Heavy,3,3,False,255.02166666666668,13.6,Usage is within normal expected range compared to peers.
+B0238,6.591519,3.3929374,Medium,Residential,Suburb,148.6,Constant,5,5,False,143.5676,6.4,Usage is within normal expected range compared to peers.
+B0239,6.4234712,3.4085376,Huge,Commercial,Dense Urban,2659.3,Daytime Peak,14,2,False,2410.923448275862,9.8,Usage is within normal expected range compared to peers.
+B0240,6.5663585,3.3243243,Huge,Industrial,Slum,5212.32,Constant Heavy,30,4,False,4032.0216666666665,23.8,Usage is within normal expected range compared to peers.
+B0241,6.4231059,3.4266335,Large,Residential,Commercial District,391.71,Morning/Evening Peak,3,1,False,412.80782608695654,9.0,Usage is within normal expected range compared to peers.
+B0242,6.4513505,3.3988778,Large,Residential,Slum,348.83,Morning/Evening Peak,27,9,False,412.80782608695654,61.2,Noticeably below average (412.8 kWh) for Large Residential buildings.
+B0243,6.4450916,3.3757274,Huge,Commercial,Slum,2314.14,Constant,26,8,False,2410.923448275862,18.6,Usage is within normal expected range compared to peers.
+B0244,6.451776,3.3987739,Huge,Residential,Commercial District,907.73,Constant,1,2,False,843.0926315789474,11.3,Usage is within normal expected range compared to peers.
+B0245,6.4336502,3.4203937,Medium,Industrial,Suburb,838.74,Constant Heavy,5,3,False,718.9705,10.5,Usage is within normal expected range compared to peers.
+B0246,6.4411312,3.3845685,Large,Industrial,Dense Urban,2334.3,Constant Heavy,10,6,False,1901.3005555555558,7.1,Usage is within normal expected range compared to peers.
+B0247,6.4706005,3.3657512,Medium,Commercial,Commercial District,357.65,Daytime Peak,2,3,False,366.41720000000004,7.5,Usage is within normal expected range compared to peers.
+B0248,6.5924713,3.3937573,Huge,Commercial,Dense Urban,430.27,Daytime Peak,10,2,True,2410.923448275862,89.2,Suspiciously low usage. More than 2 std devs below average (2410.9 kWh) for Huge Commercial buildings.
+B0249,6.4449902,3.376542,Huge,Residential,Suburb,925.52,Morning/Evening Peak,2,4,False,843.0926315789474,8.6,Usage is within normal expected range compared to peers.
